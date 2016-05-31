@@ -1,2 +1,5 @@
-# hernandanielg.github.io
-Personal website
+# Hernan Garcia's personal website
+
+## Under construction
+
+Please visit [https://hernandanielg.github.io](https://hernandanielg.github.io)
