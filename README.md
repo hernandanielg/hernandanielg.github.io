@@ -1,4 +1,4 @@
-# Hernan Garcia's personal website
+# Personal website
 
 ## Under construction
 
